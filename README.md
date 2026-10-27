@@ -1,17 +1,26 @@
-# Hi, I'm Adeeba! 👋
+Hi, I’m Adeeba! 👋
 
-### 🎓 BCA Student | 💻 IT Enthusiast | 📊 Data & Business Analyst Intern
+💻 Web Development | 🎓 BCA Student | 📊 Data & Business Analyst Intern
 
-## 👩‍💻 About Me
+👩‍💻 About Me
 
-I'm a final-year Bachelor of Computer Applications (BCA) student at Hirachand Nemchand College of Commerce, Solapur.
+I’m a third-year Bachelor of Computer Applications (BCA) student at Hirachand Nemchand College of Commerce, Solapur, with a strong interest in Web Development, Software Development, and Data Analytics.
 
-My journey in Information Technology involves exploring programming, software development, database management, web technologies, Data Analytics, and Artificial Intelligence & Machine Learning.
+My academic journey has helped me explore programming languages, database management, front-end and back-end development, and software engineering concepts.
 
-Currently, I'm gaining practical industry experience as a Data & Business Analyst Intern at Analytics Career Connect (ACC).
+I enjoy developing interactive websites, working with databases, building practical applications, and transforming data into meaningful insights.
 
-I'm passionate about building practical projects, improving my technical knowledge, and continuously exploring new technologies.
+Currently, I’m gaining professional experience as a Data & Business Analyst Intern at Analytics Career Connect (ACC), where I’m strengthening my analytical, technical, communication, and problem-solving skills.
 
-## 🎯 My Career Objective
+🚀 My Development Journey
 
-To develop a strong career in the IT industry by applying technical knowledge, analytical thinking, and problem-solving skills to real-world challenges.
+* 🌐 Exploring front-end and back-end web development.
+* 💻 Building web applications using PHP, HTML, CSS, JavaScript, and MySQL.
+* 🗄️ Learning database design, management, and SQL queries.
+* 📊 Developing analytical dashboards using Power BI and Excel.
+* 🛠️ Working on academic and practical software projects.
+* 🌱 Continuously improving my development skills and exploring new technologies.
+
+🎯 Career Objective
+
+To build a successful career in Web Development and the IT industry by developing efficient, user-friendly applications, strengthening software development skills, and applying analytical thinking to solve real-world problems.
