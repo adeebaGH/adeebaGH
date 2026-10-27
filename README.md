@@ -71,3 +71,14 @@ A database-driven web application developed to simplify IT asset management with
 **My Learning:** Gained practical experience in full-stack web development, database integration, CRUD operations, session management, and building user-friendly interfaces.
 
 📌 [💻 View IT Asset Tracking System](https://github.com/adeebaGH/IT-Asset-Tracking-System)
+
+## 🤝 Connect With Me
+
+💼 **LinkedIn:** [My LinkedIn Profile](PASTE_YOUR_LINKEDIN_URL_HERE)
+
+💻 **GitHub:** [adeebaGH](https://github.com/adeebaGH)
+
+🌐 **Interests:** Web Development | Software Development | Data Analytics
+
+---
+⭐ Thanks for visiting my GitHub profile!
