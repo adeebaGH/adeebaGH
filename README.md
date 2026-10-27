@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Adeeba! 👋
 
-<!--
-**adeebaGH/adeebaGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 BCA Student | 💻 IT Enthusiast | 📊 Data & Business Analyst Intern
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a final-year Bachelor of Computer Applications (BCA) student at Hirachand Nemchand College of Commerce, Solapur.
+
+My journey in Information Technology involves exploring programming, software development, database management, web technologies, Data Analytics, and Artificial Intelligence & Machine Learning.
+
+Currently, I'm gaining practical industry experience as a Data & Business Analyst Intern at Analytics Career Connect (ACC).
+
+I'm passionate about building practical projects, improving my technical knowledge, and continuously exploring new technologies.
+
+## 🎯 My Career Objective
+
+To develop a strong career in the IT industry by applying technical knowledge, analytical thinking, and problem-solving skills to real-world challenges.
