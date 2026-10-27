@@ -74,7 +74,7 @@ A database-driven web application developed to simplify IT asset management with
 
 ## 🤝 Connect With Me
 
-💼 **LinkedIn:** [My LinkedIn Profile](PASTE_YOUR_LINKEDIN_URL_HERE)
+💼 **LinkedIn:** [My LinkedIn Profile(https://www.linkedin.com/in/adeeba-athani-053743347?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
 
 💻 **GitHub:** [adeebaGH](https://github.com/adeebaGH)
 
@@ -82,3 +82,9 @@ A database-driven web application developed to simplify IT asset management with
 
 ---
 ⭐ Thanks for visiting my GitHub profile!
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adeebaGH&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adeebaGH&layout=compact&theme=tokyonight)
